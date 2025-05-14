@@ -6,7 +6,7 @@
 
 - 使用 Markdown 编写的详细学习笔记
 - 从 Markdown 生成的 PDF 文件，方便阅读与分享
-- ~~仅供学习参考的原书 PDF 文件（请支持正版）~~
+- 仅供学习参考的原书 PDF 文件（请支持正版）
 
 ------
 
@@ -15,7 +15,7 @@
 > ├── notes/                         # 读书笔记（Markdown 与 PDF 格式）
 > │   ├── Reading_notes_on_Understanding_C_Language.md
 > │   └── Reading_notes_on_Understanding_C_Language.pdf
-> ~~├── Understanding_C_Language.pdf  # 原书 PDF（仅供学习交流）~~
+> ├── Understanding_C_Language.pdf  # 原书 PDF（仅供学习交流）
 
 ------
 
@@ -28,10 +28,10 @@
 - **`Reading_notes_on_Understanding_C_Language.pdf`**
 	 从 Markdown 文件导出的 PDF 格式，适合快速浏览与打印。
 
-### ~~⚠️ 原书文件~~
+### ⚠️ 原书文件
 
-- ~~**`Understanding_C_Language.pdf`**~~
-	 ~~《明解C语言》的电子版，仅供学习交流使用。请勿用于任何商业用途，建议购买正版以支持作者和出版社。~~
+- **`Understanding_C_Language.pdf`**
+	 《明解C语言》的电子版，仅供学习交流使用。请勿用于任何商业用途，建议购买正版以支持作者和出版社。
 
 ------
 
@@ -58,17 +58,17 @@ cd Reading_notes_on_Understanding_C_Language
 	notes/Reading_notes_on_Understanding_C_Language.pdf
 	```
 
-~~3.**版权说明**~~
+3.**版权说明**
 
-- ~~原书仅供学习参考，请勿转载、传播或用于商业用途。~~
-- ~~强烈建议支持正版图书。~~
+- 原书仅供学习参考，请勿转载、传播或用于商业用途。
+- 强烈建议支持正版图书。
 
 ------
 
 ## 📄 许可说明
 
 - 本项目中笔记部分由我本人整理撰写，欢迎参考与交流。
-- ~~原书版权归原作者及出版社所有，上传的 PDF 文件仅供个人学习使用，请勿作他用。~~
+- 原书版权归原作者及出版社所有，上传的 PDF 文件仅供个人学习使用，请勿作他用。
 
 ------
 
